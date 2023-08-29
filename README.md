@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Author - Subhasis Pujapanda
+Author - Subhasis Pujapanda <br>
 Tic-Tac-Toe is a game designed to play between two players.<br>
 Here HTML,CSS and JAVASCRIPT used to design the game.<br>
 The game is played on a grid that's 3 squares by 3 squares.<br>
